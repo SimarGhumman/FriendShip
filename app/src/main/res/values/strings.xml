@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FriendShip</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="roll">Roll</string>
+    <string name="how_many">How Many?</string>
+    <string name="button">Button</string>
+    <string name="welcome_to_friendship">Welcome To FriendShip!</string>
+    <string name="friends">Friends</string>
+    <string name="add_contacts">Add Contacts</string>
+    <string name="contacts">contacts</string>
+    <string name="health">health</string>
+    <string name="name_bob">Name (Bob)</string>
+    <string name="input_the_following_prompts">Input the following prompts</string>
+    <string name="submit">Submit</string>
+    <string name="email_bob_yahoo_com">Email (bob@yahoo.com)</string>
+    <string name="favorite_number_15">Favorite Number (15)</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_123_456_7890">Phone Number (123–456–7890)</string>
+    <string name="view_contact">View Contact</string>
+    <string name="best_friends">Best Friends</string>
+    <string name="name_first">none</string>
+    <string name="email_first">none</string>
+    <string name="phone_number_first">none</string>
+    <string name="none" />
+    <string name="send_sms">Send SMS</string>
+    <string name="contacting_friends">Contacting Friends…</string>
+    <string name="about_us">About Us</string>
+    <string name="str">Str</string>
+    <string name="select_contacts">Select Contacts</string>
+    <string name="select_contact">Select Contact</string>
+    <string name="textview">TextView</string>
+    <string name="wants_to_talk">wants to talk.</string>
+    <string name="your_mental_health_is_important_to_not_only_yourself_but_the_people_around_you_check_out_some_of_the_resources_below_to_help_you_care_for_your_mental_health_remember_you_are_loved">Your mental health is important to not only yourself, but the people around you. Check out some of the resources below to help you care for your mental health. Remember: you are loved.</string>
+    <string name="friend_ship_resources">Friend-Ship Resources</string>
+    <string name="general_mental_health_resources">General Mental Health Resources:</string>
+    <string name="mental_health_resources_what_you_need_to_know_healthline_com">Mental Health Resources: What You Need to Know (healthline.com)</string>
+    <string name="nimh_help_for_mental_illnesses_nih_gov">NIMH » Help for Mental Illnesses (nih.gov)</string>
+    <string name="home_mentalhealth_gov">Home | MentalHealth.gov</string>
+    <string name="home_nami_national_alliance_on_mental_illness">Home | NAMI: National Alliance on Mental Illness</string>
+    <string name="mental_health_resources_mhresources_org">Mental Health Resources (mhresources.org)</string>
+    <string name="suicide_prevention_resources">Suicide Prevention resources:</string>
+    <string name="_1_800_273_8255_lifeline_suicidepreventionlifeline_org">1–800–273–8255 Lifeline (suicidepreventionlifeline.org)</string>
+    <string name="nimh_suicide_prevention_nih_gov">NIMH » Suicide Prevention (nih.gov)</string>
+    <string name="crisis_text_line_text_home_to_741741_free_24_7_crisis_counseling">Crisis Text Line | Text HOME To 741741 free, 24/7 Crisis Counseling</string>
+    <string name="mental_health_resources_mental_health_first_aid">Mental Health Resources - Mental Health First Aid</string>
+
+</resources>
