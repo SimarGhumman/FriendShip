@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#D3F6FB">
 
     <Button
         android:id="@+id/Send_SMS"
@@ -57,16 +58,17 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="253dp"
-        android:layout_height="154dp"
-        android:layout_marginEnd="68dp"
-        android:layout_marginRight="68dp"
+        android:layout_width="289dp"
+        android:layout_height="177dp"
+        android:layout_marginStart="61dp"
+        android:layout_marginLeft="61dp"
+        android:layout_marginTop="556dp"
+        android:layout_marginEnd="61dp"
+        android:layout_marginRight="61dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/ic_teddy_bear"
         tools:ignore="ImageContrastCheck" />
 

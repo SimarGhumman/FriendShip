@@ -7,6 +7,7 @@
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/down_arrow_icon.xml" value="0.40572916666666664" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/ic_add.xml" value="0.5703125" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.40572916666666664" />
+        <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/ic_friendship.xml" value="0.4225" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/ic_launcher_background.xml" value="0.40572916666666664" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/drawable/ic_teddy_bear.xml" value="0.39791666666666664" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/layout/about_us.xml" value="0.33" />
@@ -19,6 +20,9 @@
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/layout/fragment_second.xml" value="0.38768115942028986" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/layout/myadapter.xml" value="0.39479166666666665" />
         <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/layout/test.xml" value="0.33" />
+        <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/menu/menu_main.xml" value="0.4935185185185185" />
+        <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2215" />
+        <entry key="..\:/Users/ghumm/AndroidStudioProjects/FriendShip/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2215" />
       </map>
     </option>
   </component>
